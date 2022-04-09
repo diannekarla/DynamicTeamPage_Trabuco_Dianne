@@ -1,4 +1,4 @@
-![About Page](images/About Page.png "About Page")
+![AboutPage](images/AboutPage.png "About Page")
 
 # Dynamic Team Page
 
